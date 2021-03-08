@@ -3,6 +3,9 @@ GlobalHotKeys is a tiny .NET Library registering global HotKeys on Windows, writ
 
 The library allows an application to react to Key Press events even if the application does not currently have focus.
 
+## Additional Info
+For additional info please visit: https://lostindetails.com/articles/Global-HotKeys-for-Windows-Applications
+
 ## Example Usage
 Please take a look at the examples in the `src/Examples` folder.
 
