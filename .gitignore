@@ -32,3 +32,7 @@ _ReSharper*/
 packages/
 .idea/
 .ionide/
+
+# NCrunch
+*.ncrunchproject
+*.ncrunchsolution
