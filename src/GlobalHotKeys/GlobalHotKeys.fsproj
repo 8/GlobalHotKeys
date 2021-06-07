@@ -2,6 +2,18 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>GlobalHotKeys.Windows</AssemblyName>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageLicenseExpression>MIT OR WTFPL</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/8/GlobalHotKeys</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/8/GlobalHotKeys</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Copyright>Copyright Martin Kramer (http://www.lostindetails.com)</Copyright>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageTags>GlobalHotKeys;Windows</PackageTags>
+    <Description>GlobalHotKeys is a tiny .NET Library for registering global HotKeys on Windows</Description>
   </PropertyGroup>
 
   <ItemGroup>
