@@ -1,10 +1,16 @@
 # README
-GlobalHotKeys is a tiny .NET Library registering global HotKeys on Windows, written by Martin Kramer (https://lostindetails.com)
+GlobalHotKeys is a tiny .NET Library for registering global HotKeys on Windows, written by Martin Kramer (https://lostindetails.com)
 
 The library allows an application to react to Key Press events even if the application does not currently have focus.
 
 ## Additional Info
 For additional info please visit: https://lostindetails.com/articles/Global-HotKeys-for-Windows-Applications
+
+## Installation
+Install the nuget package via `dotnet add package`
+```bat
+dotnet add package GlobalHotKeys.Windows
+```
 
 ## Example Usage
 Please take a look at the examples in the `src/Examples` folder.
