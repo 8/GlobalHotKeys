@@ -43,6 +43,7 @@ type WNDCLASSEX =
 
 [<Flags>]
 type Modifiers =
+  | None     = 0x0000
   | Alt      = 0x0001
   | Control  = 0x0002
   | NoRepeat = 0x4000
